@@ -25,6 +25,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@sveltejs/adapter-netlify": "^1.0.0-next.88",
 		"daisyui": "^2.51.5"
 	}
 }
