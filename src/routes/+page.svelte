@@ -21,13 +21,13 @@
 			</div>
 		</div>
 	</div>
-	<!-- <div class="dropdown">
+	<div class="dropdown">
 		<label tabindex="0" class="btn m-1">dropdown</label>
 		<ul tabindex="0" class="dropdown-content menu p-2 shadow bg-base-100 rounded-box w-52">
 			<li><a>Item 1</a></li>
 			<li><a>Item 2</a></li>
 		</ul>
-	</div> -->
+	</div>
 	<div>
 		<h2 class="text-3xl mt-12 font-bold">공연안내</h2>
 		<p class="text-2xl mt-6">일시</p>
